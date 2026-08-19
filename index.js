@@ -5,3 +5,7 @@ function fun1() {
 function test_rebase_ZJT() {
   console.log('test_rebase_ZJT');
 }
+
+function test_rebase_ZJT_2() {
+    console.log("test_rebase_ZJT_2");
+}
